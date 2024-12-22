@@ -1,0 +1,6 @@
+;Check - should there be a TC SWd ->TC Willo handover?
+
+COPX:*:*:WILLO:EGKK:26L:London TC SW Deps:KKAPP_W_SPT:*:9000:WILLO
+COPX:*:*:WILLO:EGKK:26R:London TC SW Deps:KKAPP_W_SPT:*:9000:WILLO
+COPX:*:*:WILLO:EGKK:08L:London TC SW Deps:KKAPP_E_SPT:*:9000:WILLO
+COPX:*:*:WILLO:EGKK:08R:London TC SW Deps:KKAPP_E_SPT:*:9000:WILLO

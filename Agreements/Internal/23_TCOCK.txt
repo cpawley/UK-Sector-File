@@ -1,0 +1,8 @@
+COPX:*:*:SIRIC:EGLL:*:London S23:London TC OCK:*:14000:SIRIC
+COPX:*:*:SIRIC:EGWU:*:London S23:London TC OCK:*:14000:SIRIC
+COPX:*:*:SIRIC:EGKK:*:London S23:London TC OCK:*:14000:SIRIC
+
+;Withdrawn 2023/03 (West LD1.1 Deployment)
+COPX:*:*:BEDEK:EGLL:*:London S23:London TC OCK:*:14000:#BEDEK
+COPX:*:*:BEDEK:EGWU:*:London S23:London TC OCK:*:14000:#BEDEK
+COPX:*:*:BEDEK:EGKK:*:London S23:London TC OCK:*:14000:#BEDEK

@@ -1,0 +1,3 @@
+; Discuss - hand to TC SWd as Guest in TC NW, TC OCK, TC WILLO? or something else?
+
+COPX:*:*:KIDLI:EGKK:*:London TC COWLY:London TC SW Deps:*:15000:KIDLI
